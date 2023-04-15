@@ -1,3 +1,5 @@
+# 当前适配状态
+Not working yet.还没法运行
 # 开源许可证 License
 ```
 # Copyright (C) 2023 The Android Open Source Project
