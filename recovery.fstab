@@ -1,0 +1,7 @@
+/userdisk     ext4     /dev/block/by-name/userdisk     flags=display=userdisk
+/userdata     ext2     /dev/block/by-name/userdata     flags=display=userdata
+/uresource             ext4     /dev/block/by-name/uresource                          flags=display=uresource
+/system_a          ext4     /dev/block/by-name/system_a                       flags=display=system_a
+/system_b          ext4     /dev/block/by-name/system_b                       flags=display=system_b
+/misc          ext4     /dev/block/by-name/misc                       flags=display=misc
+
